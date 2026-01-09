@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "我ら思う､故に我ら在り",
+  "base_artist": "氣志團",
+  "createdAt": "2026-01-09T07:19:10.930702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り",
+      "artist": "Kishidan",
+      "has_synced": true,
+      "path": "select/01_我ら思う、故に我ら在り_Kishidan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_我ら思う、故に我ら在り_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り",
+      "artist": "氣志團",
+      "has_synced": true,
+      "path": "select/03_我ら思う、故に我ら在り_氣志團.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り",
+      "artist": "Kishidan",
+      "has_synced": true,
+      "path": "select/04_我ら思う、故に我ら在り_Kishidan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り（平成ベスト 仮面ライダーGIRLS ver.）",
+      "artist": "Kamen Rider Girls",
+      "has_synced": true,
+      "path": "select/05_我ら思う、故に我ら在り(平成ベスト_仮面ライダーGIRLS_ver.)_Kamen_Rider_Girls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り (平成ベスト 仮面ライダーGIRLS ver.)",
+      "artist": "仮面ライダー",
+      "has_synced": true,
+      "path": "select/06_我ら思う、故に我ら在り_(平成ベスト_仮面ライダーGIRLS_ver.)_仮面ライダー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り (平成ベスト 仮面ライダーGIRLS ver.)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_我ら思う、故に我ら在り_(平成ベスト_仮面ライダーGIRLS_ver.)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り (平成ベスト 仮面ライダーGIRLS ver.)",
+      "artist": "KAMEN RIDER GIRLS",
+      "has_synced": true,
+      "path": "select/08_我ら思う、故に我ら在り_(平成ベスト_仮面ライダーGIRLS_ver.)_KAMEN_RIDER_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "我ら思う、故に我ら在り - 平成ベスト 仮面ライダーGIRLS ver.",
+      "artist": "KAMEN RIDER GIRLS",
+      "has_synced": true,
+      "path": "select/09_我ら思う、故に我ら在り_-_平成ベスト_仮面ライダーGIRLS_ver._KAMEN_RIDER_GIRLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我ら思う、故に我ら在り",
+      "artist": "氣志團",
+      "has_synced": false,
+      "path": "select/pl_01_我ら思う、故に我ら在り_氣志團.txt"
+    }
+  ]
+}
